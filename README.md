@@ -1,6 +1,6 @@
 # Rock Paper Scissors Lizard Spock Game 👾 (Python)
 
-### Rock 👊 Paper ✋ Scissors ✌️ Lizard 🤌 Spock 🖖 Game 👾 (Python)  
+### Rock 👊 Paper ✋ Scissors ✌️ Lizard 🤏 Spock 🖖 Game 👾 (Python)  
    
 
 
