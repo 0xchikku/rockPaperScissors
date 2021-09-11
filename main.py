@@ -65,5 +65,5 @@ while True:
     computer = get_computer_action()
     determine_winner(user, computer)
     play_again = input('Play Again? (y/n): ')
-    if play_again.lower() != 'y' or 'y' in play_again.lower():
+    if play_again.lower() != 'y' or 'y' not in play_again.lower():
         break
